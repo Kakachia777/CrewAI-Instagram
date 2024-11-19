@@ -13,7 +13,7 @@ This project demonstrates the use of the CrewAI framework to automate the creati
 CrewAI is crafted to enable the collaboration of AI agents in role-playing scenarios. In this instance, these agents collaborate to provide a comprehensive stock analysis and investment advice.
 
 ## Executing the Script
-This example defaults to using OpenHermes 2.5 via Ollama, so you should download [Ollama](ollama.ai) and [OpenHermes](https://ollama.ai/library/openhermes).
+This example defaults to using llama 3.1 via Ollama, so you should download [Ollama](ollama.ai) and [llama 3.1](https://ollama.ai/library/openhermes).
 
 You can switch the model by modifying the `MODEL` environment variable in the `.env` file.
 

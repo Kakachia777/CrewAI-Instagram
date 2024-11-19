@@ -1,5 +1,7 @@
 # AI Team for Instagram Content
 
+![Instagram](Instagram.png)
+
 ## Overview
 This project demonstrates the use of the CrewAI framework to automate the creation of Instagram content. CrewAI coordinates autonomous AI agents, allowing them to work together and efficiently handle complex tasks.
 
